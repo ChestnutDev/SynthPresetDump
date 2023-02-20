@@ -1,0 +1,54 @@
+{
+    "waves": {
+        "Name": "waves",
+        "UserParamLabel1": "Wave A",
+        "UserParamLabel2": "Wave B",
+        "UserParamLabel3": "Sub Wave",
+        "UserParamLabel4": "Sub Mix",
+        "UserParamLabel5": "Ring Mix",
+        "UserParamLabel6": "Bit Crush"
+    },
+    "beats": {
+        "Name": "beats",
+        "UserParamLabel1": "Kick GR",
+        "UserParamLabel2": "Snare GR",
+        "UserParamLabel3": "Tonal GR",
+        "UserParamLabel4": "Perc GR",
+        "UserParamLabel5": "Snare HP",
+        "UserParamLabel6": "Snare Pitch"
+    },
+    "chord": {
+        "Name": "chord",
+        "UserParamLabel1": "Wave",
+        "UserParamLabel2": "Slop",
+        "UserParamLabel3": "Mode"
+    },
+    "string": {
+        "Name": "string",
+        "UserParamLabel1": "16' Level",
+        "UserParamLabel2": "8' Level",
+        "UserParamLabel3": "4' Level",
+        "UserParamLabel4": "2' Level"
+    },
+    "chips2": {
+        "Name": "chips2",
+        "UserParamLabel1": "Fixed PW",
+        "UserParamLabel2": "Sync/Wave",
+        "UserParamLabel3": "ResyncOffset",
+        "UserParamLabel4": "Arp Type",
+        "UserParamLabel5": "Arp Rate",
+        "UserParamLabel6": "Arp Inv"
+    },
+    "Percy": {
+        "Name": "Percy"
+    },
+    "Soup 2": {
+        "Name": "Soup 2",
+        "UserParamLabel1": "Second Note",
+        "UserParamLabel2": "Waveform",
+        "UserParamLabel3": "Glide Rate",
+        "UserParamLabel4": "PulseWidth",
+        "UserParamLabel5": "PWM Rate",
+        "UserParamLabel6": "PWM Amount"
+    }
+}
