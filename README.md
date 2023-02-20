@@ -1,4 +1,4 @@
-# Synth Present Dump tools
+# Synth Preset Dump tools
 
 Many synthesizers supports storing presets, and allow you to back them up to a computer.
 
